@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'demo';
+  name="Risvana"
+  framework={
+    name:"Angular",
+    version:"15.6",
+    year:"2023"
+  }
 }
